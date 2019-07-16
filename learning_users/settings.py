@@ -27,7 +27,7 @@ SECRET_KEY = 'wp1^r-lm7=1)+(o8t*28e37as+nen)l$_z1t&yp*3l4ju9g60s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['foxtreme.pythonanywhere.com']
 
 
 # Application definition
